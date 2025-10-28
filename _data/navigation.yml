@@ -21,7 +21,7 @@ main:
   #   url: /portfolio/
 
   - title: "CV"
-    url: https://hyemik1m.github.io/cv/
+    url: /cv/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
