@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_.jpg"
+  avatar           : "images/profile_.jpg"
   name             : "Hyemi Kim"
   pronouns         : "she/her"# example: "she/her"  
   bio              : "Ph.D. student @ Columbia IEOR"
