@@ -1,11 +1,9 @@
-# ---
-# layout: archive
-# title: "CV"
-# permalink: /cv-json/
-# author_profile: false
-# redirect_from:
-#   - /resume-json
-# ---
+---
+layout: archive
+title: "CV JSON (disabled)"
+permalink: /cv-json/
+author_profile: false
+---
 
 {% include base_path %}
 
