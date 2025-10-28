@@ -12,22 +12,23 @@ I received my MS degree in Industrial and Systems Engineering from Korea Advance
 Prior to that, I received my BS degree in Industrial and Systems Engineering and Electrical Engineering from KAIST.
 
 <h2 style="color:#012169;">Research</h2>
-1. [**Fair Fares for Vehicle Sharing Systems**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4699813), with Adam N. Elmachtoub<br>
-The 8th ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2025. [[code]](https://github.com/HyemiK1m/DCEVAE)<br>
+1. [**Fair Fares for Vehicle Sharing Systems**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4699813) [[code]](https://github.com/HyemiK1m/DCEVAE)<br>
+Adam N. Elmachtoub and **Hyemi Kim**<br>
+The 8th ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2025.<br>
 <span style="color:#009EFF;">Finalist, INFORMS DEI Best Student Paper Award, 2024</span><br>
 <span style="color:#009EFF;">Finalist, INFORMS Transportation Science and Logistics Society Best Student Paper Award, 2024</span><br>
 
-Counterfactual Fairness with Disentangled Causal Effect Variational Autoencoder. [code]
-Hyemi Kim, Seungjae Shin, JoonHo Jang, Kyungwoo Song, Weonyoung Joo, Wanmo Kang, Il-Chul Moon.
-Association for the Advancement of Artificial Intelligence 2021.
+1. [**Counterfactual Fairness with Disentangled Causal Effect Variational Autoencoder**](https://www.aaai.org/AAAI21Papers/AAAI-6311.KimH.pdf) [[code]](https://github.com/HyemiK1m/DCEVAE)<br>
+**Hyemi Kim**, Seungjae Shin, JoonHo Jang, Kyungwoo Song, Weonyoung Joo, Wanmo Kang, Il-Chul Moon<br>
+Association for the Advancement of Artificial Intelligence 2021.<br>
  
-Neutralizing Gender Bias in Word Embedding with Latent Disentanglement and Counterfactual Generation.
-Seungjae Shin, Kyungwoo Song, Joonho Jang, Hyemi Kim, Weonyoung Joo, Il-Chul Moon.
-Findings of Empirical Methods in Natural Language Processing (Findings of EMNLP) 2020.
+1. [**Neutralizing Gender Bias in Word Embedding with Latent Disentanglement and Counterfactual Generation**](https://aclanthology.org/2020.findings-emnlp.280.pdf)<br>
+Seungjae Shin, Kyungwoo Song, Joonho Jang, **Hyemi Kim**, Weonyoung Joo, Il-Chul Moon<br>
+Findings of Empirical Methods in Natural Language Processing (Findings of EMNLP) 2020.<br>
  
-Deep Generative Positive-Unlabeled Learning under Selection Bias.
-ByeongHu Na, Hyemi Kim, Kyungwoo Song, Weonyoung Joo, Yoonyeong Kim, Il-Chul Moon.
-Conference on Information and Knowledge Management (CIKM) 2020.
+1. [**Deep Generative Positive-Unlabeled Learning under Selection Bias**](https://aclanthology.org/2020.findings-emnlp.280.pdf)<br>
+ByeongHu Na, **Hyemi Kim**, Kyungwoo Song, Weonyoung Joo, Yoonyeong Kim, Il-Chul Moon<br>
+Conference on Information and Knowledge Management (CIKM) 2020.<br>
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
