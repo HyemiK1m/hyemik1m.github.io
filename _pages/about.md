@@ -12,7 +12,7 @@ I received my MS degree in Industrial and Systems Engineering from Korea Advance
 Prior to that, I received my BS degree in Industrial and Systems Engineering and Electrical Engineering from KAIST.
 
 <h2 style="color:#012169;">Research</h2>
-1. **[Fair Fares for Vehicle Sharing Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4699813)**, with Adam N. Elmachtoub<br>
+1. [**Fair Fares for Vehicle Sharing Systems**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4699813), with Adam N. Elmachtoub<br>
 The 8th ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2025. [[code]](https://github.com/HyemiK1m/DCEVAE)<br>
 <span style="color:#009EFF;">Finalist, INFORMS DEI Best Student Paper Award, 2024</span><br>
 <span style="color:#009EFF;">Finalist, INFORMS Transportation Science and Logistics Society Best Student Paper Award, 2024</span><br>
