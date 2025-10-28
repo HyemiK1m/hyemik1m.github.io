@@ -6,6 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a fifth-year Ph.D. student in the Department of [Industrial Engineering and Operations Research](https://ieor.columbia.edu/) at Columbia University, and I am fortunate to be advised by Prof. [Adam Elmachtoub](https://www.columbia.edu/~ae2516/). My research interest lies in fairness and pricing.
+ 
+I received my MS degree in Industrial and Systems Engineering from Korea Advanced Institute of Science and Technology (KAIST) where I was advised by Prof. [Il-Chul Moon](https://aai.kaist.ac.kr/bbs/board.php?bo_table=sub2_1&wr_id=3).
+
+Prior to that, I received my BS degree in Industrial and Systems Engineering and Electrical Engineering from KAIST.
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
