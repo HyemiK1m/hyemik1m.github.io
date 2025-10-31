@@ -17,7 +17,7 @@ The 8th ACM Conference on Fairness, Accountability, and Transparency (FAccT), 20
 <span style="color:#009EFF;">Finalist, INFORMS DEI Best Student Paper Award, 2024</span><br>
 <span style="color:#009EFF;">Finalist, INFORMS Transportation Science and Logistics Society Best Student Paper Award, 2024</span><br>
 
-1. [**Counterfactual Fairness with Disentangled Causal Effect Variational Autoencoder**](https://www.aaai.org/AAAI21Papers/AAAI-6311.KimH.pdf) [[code]](https://github.com/HyemiK1m/DCEVAE)<br>
+1. [**Counterfactual Fairness with Disentangled Causal Effect Variational Autoencoder**](https://cdn.aaai.org/ojs/16990/16990-13-20484-1-2-20210518.pdf) [[code]](https://github.com/HyemiK1m/DCEVAE)<br>
 **Hyemi Kim**, Seungjae Shin, JoonHo Jang, Kyungwoo Song, Weonyoung Joo, Wanmo Kang, Il-Chul Moon<br>
 Association for the Advancement of Artificial Intelligence 2021<br>
 
@@ -29,7 +29,7 @@ American Institute of Aeronautics and Astronautics<br>
 Seungjae Shin, Kyungwoo Song, Joonho Jang, **Hyemi Kim**, Weonyoung Joo, Il-Chul Moon<br>
 Findings of Empirical Methods in Natural Language Processing (Findings of EMNLP) 2020<br>
  
-1. [**Deep Generative Positive-Unlabeled Learning under Selection Bias**](https://aclanthology.org/2020.findings-emnlp.280.pdf)<br>
+1. [**Deep Generative Positive-Unlabeled Learning under Selection Bias**](https://dl.acm.org/doi/10.1145/3340531.3411971)<br>
 ByeongHu Na, **Hyemi Kim**, Kyungwoo Song, Weonyoung Joo, Yoonyeong Kim, Il-Chul Moon<br>
 Conference on Information and Knowledge Management (CIKM) 2020<br>
 
