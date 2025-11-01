@@ -7,4 +7,7 @@ tags:
   - pricing
 ---
 
-Will be updated soon! Stay tuned!
+Will be updated. Stay tuned!
+
+Fair Pricing
+======
