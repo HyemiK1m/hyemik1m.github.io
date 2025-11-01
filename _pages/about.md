@@ -9,8 +9,12 @@ Hi! I am a fifth-year Ph.D. student in the Department of [Industrial Engineering
  
 I received my MS degree in Industrial and Systems Engineering from Korea Advanced Institute of Science and Technology (KAIST) where I was advised by Prof. [Il-Chul Moon](https://aai.kaist.ac.kr/bbs/board.php?bo_table=sub2_1&wr_id=3). Prior to that, I received my BS degree in Industrial and Systems Engineering and Electrical Engineering from KAIST.
 
+<!--
 <h2 style="color:#012169;">Research</h2>
 ### Conference & Journal Papers
+-->
+<h1 style="color:#012169; border-bottom:none; font-size:2em; font-weight:700; margin-top:1.2em; margin-bottom:0.2em;">Research</h1>
+<h2 style="color:#333; font-size:1.5em; font-weight:700; margin-top:0; margin-bottom:0;">Conference & Journal Papers</h2>
 1. [**Fair Fares for Vehicle Sharing Systems**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4699813) [[code]](https://github.com/HyemiK1m/Fair_Fares)<br>
 Adam N. Elmachtoub and **Hyemi Kim**<br>
 The 8th ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2025<br>
@@ -33,7 +37,7 @@ Findings of Empirical Methods in Natural Language Processing (Findings of EMNLP)
 ByeongHu Na, **Hyemi Kim**, Kyungwoo Song, Weonyoung Joo, Yoonyeong Kim, Il-Chul Moon<br>
 Conference on Information and Knowledge Management (CIKM) 2020<br>
 
-### Workshop Papers
+<h2 style="color:#333; font-size:1.5em; font-weight:700; margin-top:0; margin-bottom:0;">Workshop Paper</h2>
 1. [**Improving Group-based Robustness and Calibration via Ordered Risk and Confidence Regularization**](https://openreview.net/pdf?id=okCTFCRavwh)<br>
 Seungjae Shin, Byeonghu Na, HeeSun Bae, JoonHo Jang, **Hyemi Kim**, Kyungwoo Song, Youngjae Cho, Il-chul Moon<br>
 ICML 2022: Workshop on Spurious Correlations, Invariance and Stability<br>
