@@ -9,7 +9,7 @@ I am a fifth-year Ph.D. student in the Department of [Industrial Engineering and
  
 I received my MS degree in Industrial and Systems Engineering from Korea Advanced Institute of Science and Technology (KAIST) where I was advised by Prof. [Il-Chul Moon](https://aai.kaist.ac.kr/bbs/board.php?bo_table=sub2_1&wr_id=3). Prior to that, I received my BS degree in Industrial and Systems Engineering and Electrical Engineering from KAIST.
 
-<h2 style="color:#012169;">Research</h2>
+<h1 style="color:#012169; border-bottom:none; font-size:2.2em; font-weight:700; margin-top:1.5em; margin-bottom:0.3em;">Research</h1>
 ### Conference & Journal Papers
 1. [**Fair Fares for Vehicle Sharing Systems**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4699813) [[code]](https://github.com/HyemiK1m/Fair_Fares)<br>
 Adam N. Elmachtoub and **Hyemi Kim**<br>
