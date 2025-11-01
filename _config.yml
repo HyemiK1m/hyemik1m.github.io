@@ -217,7 +217,6 @@ kramdown:
 
 
 # These settings control the types of collections used by the template
-permalink: /posts/:title/
 collections:
   teaching:
     output: true
@@ -246,6 +245,7 @@ defaults:
       comments: true
       share: true
       related: true
+      permalink: /posts/:title/
   # _pages
   - scope:
       path: ""
