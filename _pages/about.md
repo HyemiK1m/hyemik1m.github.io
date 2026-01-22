@@ -26,7 +26,7 @@ The 8th ACM Conference on Fairness, Accountability, and Transparency (FAccT), 20
 **Hyemi Kim**, Seungjae Shin, JoonHo Jang, Kyungwoo Song, Weonyoung Joo, Wanmo Kang, Il-Chul Moon<br>
 Association for the Advancement of Artificial Intelligence 2021<br>
 
-1. [**Black-Box EM Algorithm for Estimating Latent States of High-Speed Vehicles**](https://arc.aiaa.org/doi/10.2514/1.I010831)
+1. [**Black-Box EM Algorithm for Estimating Latent States of High-Speed Vehicles**](https://arc.aiaa.org/doi/10.2514/1.I010831)<br>
 Yoon-Yeong Kim, __Hyemi Kim__, WonSung Lee, Han-Lim Choi, Il-Chul Moon<br>
 American Institute of Aeronautics and Astronautics<br>
  
