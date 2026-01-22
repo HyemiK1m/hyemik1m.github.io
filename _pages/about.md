@@ -27,19 +27,19 @@ The 8th ACM Conference on Fairness, Accountability, and Transparency (FAccT), 20
 Association for the Advancement of Artificial Intelligence 2021<br>
 
 1. [**Black-Box EM Algorithm for Estimating Latent States of High-Speed Vehicles**](https://arc.aiaa.org/doi/10.2514/1.I010831)
-Yoon-Yeong Kim, **Hyemi Kim**, WonSung Lee, Han-Lim Choi, Il-Chul Moon<br>
+Yoon-Yeong Kim, __Hyemi Kim__, WonSung Lee, Han-Lim Choi, Il-Chul Moon<br>
 American Institute of Aeronautics and Astronautics<br>
  
 1. [**Neutralizing Gender Bias in Word Embedding with Latent Disentanglement and Counterfactual Generation**](https://aclanthology.org/2020.findings-emnlp.280.pdf)<br>
-Seungjae Shin, Kyungwoo Song, Joonho Jang, **Hyemi Kim**, Weonyoung Joo, Il-Chul Moon<br>
+Seungjae Shin, Kyungwoo Song, Joonho Jang, __Hyemi Kim__, Weonyoung Joo, Il-Chul Moon<br>
 Findings of Empirical Methods in Natural Language Processing (Findings of EMNLP) 2020<br>
  
 1. [**Deep Generative Positive-Unlabeled Learning under Selection Bias**](https://dl.acm.org/doi/10.1145/3340531.3411971)<br>
-ByeongHu Na, **Hyemi Kim**, Kyungwoo Song, Weonyoung Joo, Yoonyeong Kim, Il-Chul Moon<br>
+ByeongHu Na, __Hyemi Kim__, Kyungwoo Song, Weonyoung Joo, Yoonyeong Kim, Il-Chul Moon<br>
 Conference on Information and Knowledge Management (CIKM) 2020<br>
 
 <h3 style="color:#333; font-size:1em; font-weight:700; margin-top:0; margin-bottom:0;">Workshop Paper</h3>
 1. [**Improving Group-based Robustness and Calibration via Ordered Risk and Confidence Regularization**](https://openreview.net/pdf?id=okCTFCRavwh)<br>
-Seungjae Shin, Byeonghu Na, HeeSun Bae, JoonHo Jang, **Hyemi Kim**, Kyungwoo Song, Youngjae Cho, Il-chul Moon<br>
+Seungjae Shin, Byeonghu Na, HeeSun Bae, JoonHo Jang, __Hyemi Kim__, Kyungwoo Song, Youngjae Cho, Il-chul Moon<br>
 ICML 2022: Workshop on Spurious Correlations, Invariance and Stability<br>
 
