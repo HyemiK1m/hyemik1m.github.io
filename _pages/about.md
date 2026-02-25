@@ -17,7 +17,7 @@ I received my MS degree in Industrial and Systems Engineering from Korea Advance
 <h3 style="color:#333; font-size:1em; font-weight:700; margin-top:0; margin-bottom:0;">Conference & Journal Papers</h3>
 1. [**Fair Fares for Vehicle Sharing Systems**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4699813) [[code]](https://github.com/HyemiK1m/Fair_Fares)<br>
 Adam N. Elmachtoub and **Hyemi Kim**<br>
-Operations Research, Forthcoming<br>
+Operations Research, 2026<br>
 The 8th ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2025<br>
 <span style="color:#009EFF;">Finalist, INFORMS DEI Best Student Paper Award, 2024</span><br>
 <span style="color:#009EFF;">Finalist, INFORMS Transportation Science and Logistics Society Best Student Paper Award, 2024</span><br>
