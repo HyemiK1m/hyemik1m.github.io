@@ -9,17 +9,15 @@ Hi! I am a fifth-year Ph.D. student in the Department of [Industrial Engineering
  
 I received my MS degree in Industrial and Systems Engineering from Korea Advanced Institute of Science and Technology (KAIST) where I was advised by Prof. [Il-Chul Moon](https://aai.kaist.ac.kr/bbs/board.php?bo_table=sub2_1&wr_id=3). Prior to that, I received my BS degree in Industrial and Systems Engineering and Electrical Engineering from KAIST.
 
-<!--
-<h2 style="color:#012169;">Research</h2>
-### Conference & Journal Papers
--->
 <h2 style="color:#012169; border-bottom:none; font-size:1.5em; font-weight:700; margin-top:1.2em; margin-bottom:0.2em;">Research</h2>
-<h3 style="color:#333; font-size:1em; font-weight:700; margin-top:0; margin-bottom:0;">Conference & Journal Papers</h3>
-($\alpha$-$\beta$) Authors listed in alphabetical order. (*) Equal contribution (Co-first authors).
+<h3 style="color:#333; font-size:1em; font-weight:700; margin-top:0; margin-bottom:0.5em;">Conference & Journal Papers</h3>
+
+<p style="font-size:0.85em; color:#666; margin-top:0; margin-bottom:1.5em;">
+  ($\alpha$-$\beta$) Authors listed in alphabetical order. (*) Equal contribution (Co-first authors).
 </p>
 
 1. **Fair Aggregation in Virtual Power Plants**<br>
-Liudong Chen$^*$, **Hyemi Kim$^*$**, Adam N. Elmachtoub, and Bolun Xu ($^*$Equal contribution)<br>
+Liudong Chen$^*$, **Hyemi Kim$^*$**, Adam N. Elmachtoub, and Bolun Xu <br>
 The 9th ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2026<br>
 
 1. **Learning Fair Demand Models**<br>
