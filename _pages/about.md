@@ -9,13 +9,13 @@ Hi! I am a fifth-year Ph.D. student in the Department of [Industrial Engineering
  
 I received my MS degree in Industrial and Systems Engineering from Korea Advanced Institute of Science and Technology (KAIST) where I was advised by Prof. [Il-Chul Moon](https://aai.kaist.ac.kr/bbs/board.php?bo_table=sub2_1&wr_id=3). Prior to that, I received my BS degree in Industrial and Systems Engineering and Electrical Engineering from KAIST.
 
-<h2 style="color:#012169; border-bottom: 2px solid #012169; padding-bottom: 5px; font-size:1.8em; font-weight:800; margin-top:2em; margin-bottom:1em;">Research</h2>
+<h2 style="color:#012169; border-bottom: 2px solid #012169; padding-bottom: 5px; font-size:1.7em; font-weight:800; margin-top:1.5em; margin-bottom:0.3em;">Research</h2>
 
-<p style="font-size:0.85em; color:#666; font-style:italic; margin-top:0.5em; margin-bottom:1.2em; line-height:1.4;">
+<p style="font-size:0.75em; color:#888; font-style:italic; margin-top:0; margin-bottom:1.2em;">
   (*) Equal contribution. (α-β) Alphabetical order.
 </p>
 
-<h3 style="color:#333; font-size:1em; font-weight:700; margin-top:0; margin-bottom:0.8em;">Conference & Journal Papers</h3>
+<h3 style="color:#444; font-size:1.1em; font-weight:700; margin-bottom:1em;">Conference & Journal Papers</h3>
 
 1. **Fair Aggregation in Virtual Power Plants**<br>
 Liudong Chen*, **Hyemi Kim***, Adam N. Elmachtoub, and Bolun Xu <br>
@@ -48,7 +48,7 @@ Findings of Empirical Methods in Natural Language Processing (Findings of EMNLP)
 ByeongHu Na, **Hyemi Kim**, Kyungwoo Song, Weonyoung Joo, Yoonyeong Kim, Il-Chul Moon<br>
 Conference on Information and Knowledge Management (CIKM) 2020<br>
 
-<h3 style="color:#333; font-size:1em; font-weight:700; margin-top:0; margin-bottom:0;">Workshop Paper</h3>
+<h3 style="color:#444; font-size:1.1em; font-weight:700; margin-bottom:1em;">Workshop Paper</h3>
 1. [**Improving Group-based Robustness and Calibration via Ordered Risk and Confidence Regularization**](https://openreview.net/pdf?id=okCTFCRavwh)<br>
 Seungjae Shin, Byeonghu Na, HeeSun Bae, JoonHo Jang, *Hyemi Kim*, Kyungwoo Song, Youngjae Cho, Il-chul Moon<br>
 ICML 2022: Workshop on Spurious Correlations, Invariance and Stability<br>
