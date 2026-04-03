@@ -13,10 +13,6 @@ I received my MS degree in Industrial and Systems Engineering from Korea Advance
 <h3 style="color:#333; font-size:1em; font-weight:700; margin-top:0; margin-bottom:0.5em;">Conference & Journal Papers</h3>
 
 <p style="font-size:0.85em; color:#666; margin-top:0; margin-bottom:1.5em;">
-<h2 style="color:#012169; border-bottom:none; font-size:1.5em; font-weight:700; margin-top:1.2em; margin-bottom:0.2em;">Research</h2>
-<h3 style="color:#333; font-size:1em; font-weight:700; margin-top:0; margin-bottom:0.5em;">Conference & Journal Papers</h3>
-
-<p style="font-size:0.85em; color:#666; margin-top:0; margin-bottom:1.5em;">
   (α-β) Authors listed in alphabetical order. (*) Equal contribution (Co-first authors).
 </p>
 
