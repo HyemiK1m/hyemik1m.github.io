@@ -41,3 +41,27 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* --- Custom Styles --- */
+
+/* Override default hyperlink colors (for academic consistency) */
+a {
+  color: #012169 !important; /* Matches Columbia University blue */
+  text-decoration: none !important;
+  transition: color 0.2s ease-in-out;
+}
+
+/* Hover effect for links */
+a:hover {
+  color: #0033a0 !important;
+  text-decoration: underline !important;
+}
+
+/* Sidebar link colors (Contact, Social Media) */
+.sidebar a {
+  color: #555 !important;
+}
+
+.sidebar a:hover {
+  color: #012169 !important;
+}
