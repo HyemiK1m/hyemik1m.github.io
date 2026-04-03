@@ -5,6 +5,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+  a { color: #012169 !important; text-decoration: none !important; }
+  a:hover { color: #0033a0 !important; text-decoration: underline !important; }
+</style>
+
 Hi! I am a fifth-year Ph.D. student in the Department of [Industrial Engineering and Operations Research](https://ieor.columbia.edu/) at Columbia University, and I am fortunate to be advised by Prof. [Adam Elmachtoub](https://www.columbia.edu/~ae2516/). My research interest lies in fairness and pricing.
  
 I received my MS degree in Industrial and Systems Engineering from Korea Advanced Institute of Science and Technology (KAIST) where I was advised by Prof. [Il-Chul Moon](https://aai.kaist.ac.kr/bbs/board.php?bo_table=sub2_1&wr_id=3). Prior to that, I received my BS degree in Industrial and Systems Engineering and Electrical Engineering from KAIST.
