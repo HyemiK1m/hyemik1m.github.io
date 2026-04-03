@@ -8,15 +8,6 @@
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
-/* --- Custom Styles (Move to Top) --- */
-a {
-  color: #012169 !important;
-}
-a:hover {
-  color: #0033a0 !important;
-  text-decoration: underline !important;
-}
-
 @import
     "vendor/breakpoint/breakpoint",
 
