@@ -13,19 +13,23 @@ I received my MS degree in Industrial and Systems Engineering from Korea Advance
 <h3 style="color:#333; font-size:1em; font-weight:700; margin-top:0; margin-bottom:0.5em;">Conference & Journal Papers</h3>
 
 <p style="font-size:0.85em; color:#666; margin-top:0; margin-bottom:1.5em;">
-  ($\alpha$-$\beta$) Authors listed in alphabetical order. (*) Equal contribution (Co-first authors).
+<h2 style="color:#012169; border-bottom:none; font-size:1.5em; font-weight:700; margin-top:1.2em; margin-bottom:0.2em;">Research</h2>
+<h3 style="color:#333; font-size:1em; font-weight:700; margin-top:0; margin-bottom:0.5em;">Conference & Journal Papers</h3>
+
+<p style="font-size:0.85em; color:#666; margin-top:0; margin-bottom:1.5em;">
+  (α-β) Authors listed in alphabetical order. (*) Equal contribution (Co-first authors).
 </p>
 
 1. **Fair Aggregation in Virtual Power Plants**<br>
-Liudong Chen$^*$, **Hyemi Kim$^*$**, Adam N. Elmachtoub, and Bolun Xu <br>
+Liudong Chen*, **Hyemi Kim***, Adam N. Elmachtoub, and Bolun Xu <br>
 The 9th ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2026<br>
 
 1. **Learning Fair Demand Models**<br>
-Adam N. Elmachtoub, **Hyemi Kim**, and Jonathan Y. Tan ($\alpha$-$\beta$)<br>
+Adam N. Elmachtoub, **Hyemi Kim**, and Jonathan Y. Tan (α-β)<br>
 The 9th ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2026<br>
 
 1. [**Fair Fares for Vehicle Sharing Systems**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4699813) [[code]](https://github.com/HyemiK1m/Fair_Fares)<br>
-Adam N. Elmachtoub and **Hyemi Kim** ($\alpha$-$\beta$)<br>
+Adam N. Elmachtoub and **Hyemi Kim** (α-β)<br>
 Operations Research, 2026<br>
 The 8th ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2025<br>
 <span style="color:#009EFF;">Finalist, INFORMS DEI Best Student Paper Award, 2024</span><br>
