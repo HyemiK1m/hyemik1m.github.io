@@ -50,6 +50,6 @@ Conference on Information and Knowledge Management (CIKM) 2020<br>
 
 <h3 style="color:#444; font-size:1.1em; font-weight:700; margin-bottom:1em;">Workshop Paper</h3>
 1. [**Improving Group-based Robustness and Calibration via Ordered Risk and Confidence Regularization**](https://openreview.net/pdf?id=okCTFCRavwh)<br>
-Seungjae Shin, Byeonghu Na, HeeSun Bae, JoonHo Jang, *Hyemi Kim*, Kyungwoo Song, Youngjae Cho, Il-chul Moon<br>
+Seungjae Shin, Byeonghu Na, HeeSun Bae, JoonHo Jang, **Hyemi Kim**, Kyungwoo Song, Youngjae Cho, Il-chul Moon<br>
 ICML 2022: Workshop on Spurious Correlations, Invariance and Stability<br>
 
