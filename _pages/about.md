@@ -17,7 +17,7 @@ Hi! I am a fifth-year Ph.D. student in the Department of [Industrial Engineering
  
 I received my MS degree in Industrial and Systems Engineering from Korea Advanced Institute of Science and Technology (KAIST) where I was advised by Prof. [Il-Chul Moon](https://aai.kaist.ac.kr/bbs/board.php?bo_table=sub2_1&wr_id=3). Prior to that, I received my BS degree in Industrial and Systems Engineering and Electrical Engineering from KAIST.
 
-<h2 style="color:#012169; border-bottom: 2px solid #444; padding-bottom: 5px; font-size:1.7em; font-weight:800; margin-top:1.5em; margin-bottom:0.3em;">Research</h2>
+<h2 style="color:#2a5db0; border-bottom: 2px solid #444; padding-bottom: 5px; font-size:1.7em; font-weight:800; margin-top:1.5em; margin-bottom:0.3em;">Research</h2>
 
 <p style="font-size:0.75em; color:#888; font-style:italic; margin-top:0; margin-bottom:1.2em;">
   (*) Equal contribution. (α-β) Alphabetical order.
