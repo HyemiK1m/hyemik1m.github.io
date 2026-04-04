@@ -9,7 +9,7 @@ redirect_from:
   body, p, li, div {
     color: #222222 !important;
   }
-  a { color: #2a5db0 !important; text-decoration: none !important; }
+  a { color: #34495E !important; text-decoration: none !important; }
   a:hover { color: #0033a0 !important; text-decoration: underline !important; }
 </style>
 
@@ -17,7 +17,7 @@ Hi! I am a fifth-year Ph.D. student in the Department of [Industrial Engineering
  
 I received my MS degree in Industrial and Systems Engineering from Korea Advanced Institute of Science and Technology (KAIST) where I was advised by Prof. [Il-Chul Moon](https://aai.kaist.ac.kr/bbs/board.php?bo_table=sub2_1&wr_id=3). Prior to that, I received my BS degree in Industrial and Systems Engineering and Electrical Engineering from KAIST.
 
-<h2 style="color:#2a5db0; border-bottom: 2px solid #444; padding-bottom: 5px; font-size:1.7em; font-weight:800; margin-top:1.5em; margin-bottom:0.3em;">Research</h2>
+<h2 style="color:#34495E; border-bottom: 2px solid #444; padding-bottom: 5px; font-size:1.7em; font-weight:800; margin-top:1.5em; margin-bottom:0.3em;">Research</h2>
 
 <p style="font-size:0.75em; color:#888; font-style:italic; margin-top:0; margin-bottom:1.2em;">
   (*) Equal contribution. (α-β) Alphabetical order.
@@ -37,8 +37,8 @@ The 9th ACM Conference on Fairness, Accountability, and Transparency (FAccT), 20
 Adam N. Elmachtoub and **Hyemi Kim** (α-β)<br>
 Operations Research, 2026<br>
 The 8th ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2025<br>
-<span style="color:#009EFF;">Finalist, INFORMS DEI Best Student Paper Award, 2024</span><br>
-<span style="color:#009EFF;">Finalist, INFORMS Transportation Science and Logistics Society Best Student Paper Award, 2024</span><br>
+<span style="color:#264653;">Finalist, INFORMS DEI Best Student Paper Award, 2024</span><br>
+<span style="color:#264653;">Finalist, INFORMS Transportation Science and Logistics Society Best Student Paper Award, 2024</span><br>
 
 1. [**Counterfactual Fairness with Disentangled Causal Effect Variational Autoencoder**](https://cdn.aaai.org/ojs/16990/16990-13-20484-1-2-20210518.pdf) [[code]](https://github.com/HyemiK1m/DCEVAE)<br>
 **Hyemi Kim**, Seungjae Shin, JoonHo Jang, Kyungwoo Song, Weonyoung Joo, Wanmo Kang, Il-Chul Moon<br>
