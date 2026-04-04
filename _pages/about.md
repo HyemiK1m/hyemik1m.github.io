@@ -6,6 +6,9 @@ redirect_from:
   - /about.html
 ---
 <style>
+  body, p, li, div {
+    color: #222222 !important;
+  }
   a { color: #2a5db0 !important; text-decoration: none !important; }
   a:hover { color: #0033a0 !important; text-decoration: underline !important; }
 </style>
