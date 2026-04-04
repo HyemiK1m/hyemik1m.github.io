@@ -9,7 +9,7 @@ redirect_from:
   body, p, li, div {
     color: #222222 !important;
   }
-  a { color: #054ADA !important; text-decoration: none !important; }
+  a { color: #1565C0 !important; text-decoration: none !important; }
   a:hover { color: #0033a0 !important; text-decoration: underline !important; }
 </style>
 
@@ -37,8 +37,8 @@ The 9th ACM Conference on Fairness, Accountability, and Transparency (FAccT), 20
 Adam N. Elmachtoub and **Hyemi Kim** (α-β)<br>
 Operations Research, 2026<br>
 The 8th ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2025<br>
-<span style="color:#4338CA;">Finalist, INFORMS DEI Best Student Paper Award, 2024</span><br>
-<span style="color:#4338CA;">Finalist, INFORMS Transportation Science and Logistics Society Best Student Paper Award, 2024</span><br>
+<span style="color:#64B5F6;">Finalist, INFORMS DEI Best Student Paper Award, 2024</span><br>
+<span style="color:#64B5F6;">Finalist, INFORMS Transportation Science and Logistics Society Best Student Paper Award, 2024</span><br>
 
 1. [**Counterfactual Fairness with Disentangled Causal Effect Variational Autoencoder**](https://cdn.aaai.org/ojs/16990/16990-13-20484-1-2-20210518.pdf) [[code]](https://github.com/HyemiK1m/DCEVAE)<br>
 **Hyemi Kim**, Seungjae Shin, JoonHo Jang, Kyungwoo Song, Weonyoung Joo, Wanmo Kang, Il-Chul Moon<br>
