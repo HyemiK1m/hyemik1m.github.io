@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 <style>
-  a { color: #012169 !important; text-decoration: none !important; }
+  a { color: #2a5db0 !important; text-decoration: none !important; }
   a:hover { color: #0033a0 !important; text-decoration: underline !important; }
 </style>
 
