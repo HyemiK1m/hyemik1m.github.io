@@ -41,3 +41,45 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* --- Global Custom Styles for Hyemi Kim's Website --- */
+
+/* 1. Fix global text and list numbers to dark gray */
+body, p, li, div {
+  color: #222222 !important;
+}
+
+/* 2. Navigation & Sidebar: Keep links and icons dark across all pages */
+/* This covers the "Hyemi Kim", "CV" at the top and "Email", "Scholar" on the side */
+.masthead__menu-item a, 
+.masthead__title a,
+.sidebar a,
+.sidebar .author__urls-wrapper span,
+.sidebar .author__urls-wrapper i {
+  color: #222222 !important;
+  text-decoration: none !important;
+}
+
+/* 3. Main Content Links: Ensure blue color only for links in the body */
+/* Using :link and :visited to keep the color consistent after clicking */
+.page__content a:link, 
+.page__content a:visited,
+.archive a:link,
+.archive a:visited {
+  color: #191970 !important;
+  text-decoration: none !important;
+}
+
+/* 4. Hover effect for content links */
+.page__content a:hover,
+.archive a:hover {
+  color: #0033a0 !important;
+  text-decoration: underline !important;
+}
+
+/* 5. Keep the sidebar/nav hover subtle */
+.masthead__menu-item a:hover,
+.sidebar a:hover {
+  color: #0033a0 !important;
+  text-decoration: underline !important;
+}
