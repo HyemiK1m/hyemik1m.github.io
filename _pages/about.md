@@ -6,11 +6,32 @@ redirect_from:
   - /about.html
 ---
 <style>
-  body, p, li, div {
-    color: #222222 !important;
-  }
-  a { color: #191970 !important; text-decoration: none !important; }
-  a:hover { color: #0033a0 !important; text-decoration: underline !important; }
+/* 기본 텍스트 색상 설정 */
+body, p, li, div {
+  color: #222222 !important;
+}
+
+/* 본문 내의 하이퍼링크만 파란색으로 설정 */
+/* 명시적으로 href가 있는 a 태그에만 적용 */
+a { 
+  color: #191970 !important; 
+  text-decoration: none !important; 
+}
+
+a:hover { 
+  color: #0033a0 !important; 
+  text-decoration: underline !important; 
+}
+
+/* 만약 리스트의 숫자(1. 2. 3.)까지 파랗게 나온다면 아래 코드가 도움이 됩니다 */
+li {
+  color: #222222 !important;
+}
+
+/* 상단 YAML 영역에서 정의된 텍스트들은 별도로 검게 유지 */
+.author__content, .sidebar {
+  color: #222222 !important;
+}
 </style>
 
 Hi! I am a fifth-year Ph.D. student in the Department of [Industrial Engineering and Operations Research](https://ieor.columbia.edu/) at Columbia University, and I am fortunate to be advised by Prof. [Adam Elmachtoub](https://www.columbia.edu/~ae2516/). My research interest lies in fairness and pricing.
