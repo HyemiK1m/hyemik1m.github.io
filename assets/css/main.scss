@@ -42,16 +42,20 @@
     "vendor/font-awesome/brands"
 ;
 
-/* --- Global Custom Styles for Hyemi Kim's Website --- */
+/* --- Academic Portfolio Custom Styles --- */
 
-/* 1. Fix global text and list numbers to dark gray */
-body, p, li, div, h1, h2, h3, h4, h5, h6 {
+/* 1. Global Font & Color Overwrite
+   Force 'Calibri' for a clean, professional look across all text elements. */
+body, p, li, div, h1, h2, h3, h4, h5, h6, span, a {
   font-family: "Calibri", "Candara", "Segoe UI", "Optima", "Arial", sans-serif !important;
+}
+
+body, p, li, div {
   color: #222222 !important;
 }
 
-/* 2. Navigation & Sidebar: Keep links and icons dark across all pages */
-/* This covers the "Hyemi Kim", "CV" at the top and "Email", "Scholar" on the side */
+/* 2. Navigation & Sidebar Styles
+   Ensure consistency for the masthead (Hyemi Kim, CV) and sidebar (Email, Scholar). */
 .masthead__menu-item a, 
 .masthead__title a,
 .sidebar a,
@@ -61,8 +65,8 @@ body, p, li, div, h1, h2, h3, h4, h5, h6 {
   text-decoration: none !important;
 }
 
-/* 3. Main Content Links: Ensure blue color only for links in the body */
-/* Using :link and :visited to keep the color consistent after clicking */
+/* 3. Main Content Link Styles
+   Use Midnight Blue (#191970) for hyperlinks within the body and archives. */
 .page__content a:link, 
 .page__content a:visited,
 .archive a:link,
@@ -71,14 +75,10 @@ body, p, li, div, h1, h2, h3, h4, h5, h6 {
   text-decoration: none !important;
 }
 
-/* 4. Hover effect for content links */
+/* 4. Interactive Hover Effects
+   Slightly brighter blue on hover with an underline for better UX. */
 .page__content a:hover,
-.archive a:hover {
-  color: #0033a0 !important;
-  text-decoration: underline !important;
-}
-
-/* 5. Keep the sidebar/nav hover subtle */
+.archive a:hover,
 .masthead__menu-item a:hover,
 .sidebar a:hover {
   color: #0033a0 !important;
