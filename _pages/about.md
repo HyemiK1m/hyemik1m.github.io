@@ -6,22 +6,23 @@ redirect_from:
   - /about.html
 ---
 <style>
-  /* 1. Global text color settings (ensures list numbers and plain text stay dark) */
+  /* 1. Global text color settings */
   body, p, li, div {
     color: #222222 !important;
   }
 
-  /* 2. Default link style (resets navigation and sidebar links to dark) */
-  a { 
+  /* 2. Reset all links (including visited) to dark */
+  /* This prevents the "blue-again" issue after clicking back and forth */
+  a, a:visited { 
     color: #222222 !important; 
     text-decoration: none !important; 
   }
 
-  /* 3. Highlight links only within the main content area */
-  /* This targets professor names, paper links, and code links in the body */
-  .page__content a, 
-  .archive a,
-  main a { 
+  /* 3. Force blue color for links ONLY in the main content area */
+  /* We add :visited here to ensure they stay blue even after you click them */
+  .page__content a, .page__content a:visited,
+  .archive a, .archive a:visited,
+  main a, main a:visited { 
     color: #191970 !important; 
   }
 
@@ -32,9 +33,13 @@ redirect_from:
     text-decoration: underline !important; 
   }
 
-  /* 5. Sidebar specific styling (keeps social/contact links subtle) */
-  .sidebar a {
-    color: #444444 !important;
+  /* 5. Sidebar & Navigation specific styling */
+  /* Ensures your name and CV buttons stay dark */
+  .masthead__menu-item a, 
+  .masthead__menu-item a:visited,
+  .sidebar a, 
+  .sidebar a:visited {
+    color: #222222 !important;
   }
 </style>
 
