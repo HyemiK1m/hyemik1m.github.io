@@ -18,7 +18,7 @@ I received my MS degree in Industrial and Systems Engineering from Korea Advance
 
 <h3 style="color:#0C0C0C; font-size:1.1em; font-weight:700; margin-bottom:1em;">Conference & Journal Papers</h3>
 
-1. **Fair Aggregation in Virtual Power Plants**<br>
+1. [**Fair Aggregation in Virtual Power Plants**](https://arxiv.org/abs/2604.03559) [[code]](https://github.com/HyemiK1m/Fair_Aggregation_in_VPPs)<br>
 Liudong Chen\*, **Hyemi Kim**\*, Adam N. Elmachtoub, and Bolun Xu <br>
 The 9th ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2026<br>
 
