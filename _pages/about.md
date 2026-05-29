@@ -91,8 +91,7 @@ ICML 2022: Workshop on Spurious Correlations, Invariance and Stability<br>
 * **Introduction to Probability and Statistics**, Columbia IEOR (Fall 2024)
 * **Stochastic Models**, Columbia IEOR (Spring 2024)
 * **Analytics in Action**, Columbia Business School (Fall 2023)
-* **Transportation Analytics & Logistics**, Columbia IEOR (Spring 2023)
-* **Causal Inference**, Columbia IEOR (Spring 2022)
+* **<span class="text-transportation">Transportation</span> Analytics & Logistics**, Columbia IEOR (Spring 2023)
 * **Data Structure**, KAIST ISysE (Fall 2018, Fall 2019)
 
 <h2 style="color:#0C0C0C; border-bottom: 2px solid #0C0C0C; padding-bottom: 5px; font-size:1.7em; font-weight:800; margin-top:1.5em; margin-bottom:0.3em;">Fellowships & Awards</h2>
@@ -101,9 +100,9 @@ ICML 2022: Workshop on Spurious Correlations, Invariance and Stability<br>
   I am incredibly grateful for the generous support of the following fellowships and the recognition of these awards.
 </p>
 
-* **Columbia-Dream Sports AI Innovation Fellowship**, Columbia University (2025)
-* **Finalist, INFORMS DEI Best Student Paper Award** (2024)
-* **Finalist, INFORMS Transportation Science and Logistics Best Student Paper Award** (2024)
-* **Deming Doctoral Fellowship**, Columbia University (2023)
+* **Columbia-Dream Sports <span class="text-ml">AI</span> Innovation Fellowship**, Columbia University (2025)
+* **Finalist, INFORMS <span class="text-fairness">DEI</span> Best Student Paper Award** (2024)
+* **Finalist, INFORMS <span class="text-transportation">Transportation</span> Science and Logistics Best Student Paper Award** (2024)
+* **Deming Doctoral Fellowship**, Columbia Business School (2023)
 * **Songhyun Award**, KAIST (2019)
 * **Presidential Science Scholarship**, KFAS (2012)
