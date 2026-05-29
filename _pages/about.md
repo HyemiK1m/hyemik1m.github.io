@@ -26,14 +26,10 @@ redirect_from:
 
 Hi! I am a final year Ph.D. student in the Department of [Industrial Engineering and Operations Research](https://ieor.columbia.edu/) at Columbia University, and I am fortunate to be advised by Prof. [Adam Elmachtoub](https://www.columbia.edu/~ae2516/). 
 
-<blockquote style="border-left: 4px solid #00695C; background-color: #F8F9FA; padding: 15px 20px; margin: 25px 0; border-radius: 0 5px 5px 0;">
-  <p style="margin: 0; font-size: 1.15em; color: #333;">
-    <strong>My research centers around <span class="text-fairness">fairness-aware systems</span>.</strong><br>
-    <span style="font-size: 0.85em; font-weight: 400; color: #555; display: block; margin-top: 8px;">
-      More specifically, my work focuses on designing such systems via <span class="text-pricing">pricing</span>, with applications in <span class="text-transportation">transportation</span> and <span class="text-energy">energy</span>, using <span class="text-optimization">optimization</span> and <span class="text-ml">machine learning</span>.
-    </span>
-  </p>
-</blockquote>
+<p style="font-size: 1.15em; margin: 1.5em 0; line-height: 1.5;">
+  <strong>My research centers around <span class="text-fairness">fairness-aware systems</span>.</strong><br>
+  <span style="font-size: 0.85em; font-weight: normal; color: #444;">More specifically, my work focuses on designing such systems via <span class="text-pricing">pricing</span>, with applications in <span class="text-transportation">transportation</span> and <span class="text-energy">energy</span>, using <span class="text-optimization">optimization</span> and <span class="text-ml">machine learning</span>.</span>
+</p>
  
 I received my MS degree in Industrial and Systems Engineering from Korea Advanced Institute of Science and Technology (KAIST) where I was advised by Prof. [Il-Chul Moon](https://aai.kaist.ac.kr/bbs/board.php?bo_table=sub2_1&wr_id=3). Prior to that, I received my BS degree in Industrial and Systems Engineering and Electrical Engineering from KAIST.
 
