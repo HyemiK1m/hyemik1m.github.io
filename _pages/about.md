@@ -60,7 +60,7 @@ The 8th ACM Conference on Fairness, Accountability, and Transparency (FAccT), 20
 Association for the Advancement of Artificial Intelligence 2021<br>
 
 1. [**Black-Box EM Algorithm for Estimating Latent States of High-Speed Vehicles**](https://arc.aiaa.org/doi/10.2514/1.I010831)<br>
-<span class="tag-transportation">Transportation</span> <span class="tag-ml">Machine Learning</span><br>
+<span class="tag-ml">Machine Learning</span><br>
 Yoon-Yeong Kim, **Hyemi Kim**, WonSung Lee, Han-Lim Choi, Il-Chul Moon<br>
 American Institute of Aeronautics and Astronautics<br>
  
