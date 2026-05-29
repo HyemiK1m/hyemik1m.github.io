@@ -85,3 +85,25 @@ Conference on Information and Knowledge Management (CIKM) 2020<br>
 <span class="tag-ml">Machine Learning</span><br>
 Seungjae Shin, Byeonghu Na, HeeSun Bae, JoonHo Jang, **Hyemi Kim**, Kyungwoo Song, Youngjae Cho, Il-chul Moon<br>
 ICML 2022: Workshop on Spurious Correlations, Invariance and Stability<br>
+
+<h2 style="color:#0C0C0C; border-bottom: 2px solid #0C0C0C; padding-bottom: 5px; font-size:1.7em; font-weight:800; margin-top:1.5em; margin-bottom:0.3em;">Teaching</h2>
+
+* **Introduction to Probability and Statistics**, Columbia IEOR (Fall 2024)
+* **Stochastic Models**, Columbia IEOR (Spring 2024)
+* **Analytics in Action**, Columbia Business School (Fall 2023)
+* **Transportation Analytics & Logistics**, Columbia IEOR (Spring 2023)
+* **Causal Inference**, Columbia IEOR (Spring 2022)
+* **Data Structure**, KAIST ISysE (Fall 2018, Fall 2019)
+
+<h2 style="color:#0C0C0C; border-bottom: 2px solid #0C0C0C; padding-bottom: 5px; font-size:1.7em; font-weight:800; margin-top:1.5em; margin-bottom:0.3em;">Fellowships & Awards</h2>
+
+<p style="font-size: 0.9em; color: #555; font-style: italic; margin-bottom: 1em;">
+  I am incredibly grateful for the generous support of the following fellowships and the recognition of these awards.
+</p>
+
+* **Columbia-Dream Sports AI Innovation Fellowship**, Columbia University (2025)
+* **Finalist, INFORMS DEI Best Student Paper Award** (2024)
+* **Finalist, INFORMS Transportation Science and Logistics Best Student Paper Award** (2024)
+* **Deming Doctoral Fellowship**, Columbia University (2023)
+* **Songhyun Award**, KAIST (2019)
+* **Presidential Science Scholarship**, KFAS (2012)
