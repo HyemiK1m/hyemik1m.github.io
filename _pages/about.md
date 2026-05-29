@@ -1,103 +1,109 @@
 ---
 permalink: /
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 <style>
-  body { line-height: 1.7; color: #1a1a1a; }
-  
-  .tag { 
-    background-color: transparent; 
-    border: 1px solid #d1d1d1; 
-    color: #666; 
-    padding: 2px 8px; 
-    font-size: 0.65em; 
-    font-weight: 500; 
-    margin-right: 4px; 
-    display: inline-block; 
-    margin-bottom: 6px; 
-    letter-spacing: 0.05em;
-    text-transform: uppercase;
-  }
+  /* Badge Styles for Papers - Reduced Size & Slightly increased bottom margin for breathing room */
+  .tag-fairness { background-color: #E0F2F1; color: #00695C; padding: 1px 4px; border-radius: 3px; font-size: 0.7em; font-weight: 600; margin-right: 3px; display: inline-block; margin-bottom: 4px; line-height: 1.2;}
+  .tag-transportation { background-color: #E3F2FD; color: #1565C0; padding: 1px 4px; border-radius: 3px; font-size: 0.7em; font-weight: 600; margin-right: 3px; display: inline-block; margin-bottom: 4px; line-height: 1.2;}
+  .tag-energy { background-color: #E8F5E9; color: #2E7D32; padding: 1px 4px; border-radius: 3px; font-size: 0.7em; font-weight: 600; margin-right: 3px; display: inline-block; margin-bottom: 4px; line-height: 1.2;}
+  .tag-pricing { background-color: #F3E5F5; color: #6A1B9A; padding: 1px 4px; border-radius: 3px; font-size: 0.7em; font-weight: 600; margin-right: 3px; display: inline-block; margin-bottom: 4px; line-height: 1.2;}
+  .tag-optimization { background-color: #FFF3E0; color: #EF6C00; padding: 1px 4px; border-radius: 3px; font-size: 0.7em; font-weight: 600; margin-right: 3px; display: inline-block; margin-bottom: 4px; line-height: 1.2;}
+  .tag-ml { background-color: #FFEBEE; color: #C62828; padding: 1px 4px; border-radius: 3px; font-size: 0.7em; font-weight: 600; margin-right: 3px; display: inline-block; margin-bottom: 4px; line-height: 1.2;}
 
-  .text-highlight { color: #000; font-weight: 600; }
-
-  h2 { 
-    border-bottom: 1px solid #000; 
-    padding-bottom: 5px; 
-    font-size: 1.5em; 
-    font-weight: 700; 
-    margin-top: 2em; 
-    margin-bottom: 1em; 
-    letter-spacing: -0.02em;
-  }
-
-  h3 { 
-    font-size: 1.1em; 
-    font-weight: 600; 
-    margin-bottom: 1.2em; 
-  }
-
-  .paper-item { margin-bottom: 2em; }
+  /* Text Colors for Bio - Changed to 500 for a subtle boldness */
+  .text-fairness { color: #00695C; font-weight: 600; }
+  .text-transportation { color: #1565C0; font-weight: 500; }
+  .text-energy { color: #2E7D32; font-weight: 500; }
+  .text-pricing { color: #6A1B9A; font-weight: 500; }
+  .text-optimization { color: #EF6C00; font-weight: 500; }
+  .text-ml { color: #C62828; font-weight: 500; }
 </style>
 
-Hi, I am a final year Ph.D. student in the Department of [Industrial Engineering and Operations Research](https://ieor.columbia.edu/) at Columbia University, advised by Prof. [Adam Elmachtoub](https://www.columbia.edu/~ae2516/).
+Hi! I am a final-year Ph.D. student in the Department of [Industrial Engineering and Operations Research](https://ieor.columbia.edu/) at Columbia University, and I am fortunate to be advised by Prof. [Adam Elmachtoub](https://www.columbia.edu/~ae2516/). 
 
-<div style="margin: 2em 0;">
-  <span style="font-size: 1.1em; font-weight: 600; display: block; margin-bottom: 10px;">My research centers around <span class="text-highlight">fairness-aware systems</span>.</span>
-  <span>I focus on designing such systems via <span class="text-highlight">pricing</span>, with applications in <span class="text-highlight">transportation</span> and <span class="text-highlight">energy</span>, using <span class="text-highlight">optimization</span> and <span class="text-highlight">machine learning</span>.</span>
+<div style="margin: 1.5em 0;">
+  <span style="font-size: 1.15em; font-weight: bold; display: block; margin-bottom: 5px; color: #111;">My research centers around <span class="text-fairness">fairness-aware systems</span>.</span>
+  <span style="font-size: 1em; line-height: 1.6; color: #333;">More specifically, my work focuses on designing such systems via <span class="text-pricing">pricing</span>, with applications in <span class="text-transportation">transportation</span> and <span class="text-energy">energy</span>, using <span class="text-optimization">optimization</span> and <span class="text-ml">machine learning</span>.</span>
 </div>
+ 
+I received my MS degree in Industrial and Systems Engineering from Korea Advanced Institute of Science and Technology (KAIST) where I was advised by Prof. [Il-Chul Moon](https://aai.kaist.ac.kr/bbs/board.php?bo_table=sub2_1&wr_id=3). Prior to that, I received my BS degree in Industrial and Systems Engineering and Electrical Engineering from KAIST.
 
-I received my MS and BS degrees in Industrial and Systems Engineering from KAIST.
+<h2 style="color:#0C0C0C; border-bottom: 2px solid #0C0C0C; padding-bottom: 5px; font-size:1.7em; font-weight:800; margin-top:1.5em; margin-bottom:0.3em;">Research</h2>
 
-<h2>Research</h2>
+<p style="font-size:0.75em; color:#888; font-style:italic; margin-top:0; margin-bottom:1.2em;">
+  (*) Equal contribution. (α-β) Alphabetical order.
+</p>
 
-<div class="paper-item">
-  1. [**Fair Aggregation in Virtual Power Plants**](https://arxiv.org/abs/2604.03559) [[code]](https://github.com/HyemiK1m/Fair_Aggregation_in_VPPs)<br>
-  <span class="tag">Fairness</span> <span class="tag">Energy</span> <span class="tag">Pricing</span> <span class="tag">Optimization</span><br>
-  Liudong Chen*, Hyemi Kim*, Adam N. Elmachtoub, and Bolun Xu <br>
-  FAccT, 2026
-</div>
+<h3 style="color:#0C0C0C; font-size:1.1em; font-weight:700; margin-bottom:1em;">Conference & Journal Papers</h3>
 
-<div class="paper-item">
-  2. **Learning Fair Demand Models**<br>
-  <span class="tag">Fairness</span> <span class="tag">Pricing</span> <span class="tag">ML</span> <span class="tag">Optimization</span><br>
-  Adam N. Elmachtoub, Hyemi Kim, and Jonathan Y. Tan (α-β)<br>
-  FAccT, 2026
-</div>
+1. [**Fair Aggregation in Virtual Power Plants**](https://arxiv.org/abs/2604.03559) [[code]](https://github.com/HyemiK1m/Fair_Aggregation_in_VPPs)<br>
+<span class="tag-fairness">Fairness</span> <span class="tag-energy">Energy</span> <span class="tag-pricing">Pricing</span> <span class="tag-optimization">Optimization</span><br>
+Liudong Chen\*, **Hyemi Kim**\*, Adam N. Elmachtoub, and Bolun Xu <br>
+The 9th ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2026<br>
 
-<div class="paper-item">
-  3. [**Fair Fares for Vehicle Sharing Systems**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4699813) [[code]](https://github.com/HyemiK1m/Fair_Fares)<br>
-  <span class="tag">Fairness</span> <span class="tag">Transportation</span> <span class="tag">Pricing</span> <span class="tag">Optimization</span><br>
-  Adam N. Elmachtoub and Hyemi Kim (α-β)<br>
-  Operations Research, 2026; FAccT, 2025<br>
-  <span style="font-size: 0.85em; color: #444;">Finalist, INFORMS DEI Best Student Paper Award (2024); Finalist, INFORMS TSL Best Student Paper Award (2024)</span>
-</div>
+1. **Learning Fair Demand Models**<br>
+<span class="tag-fairness">Fairness</span> <span class="tag-pricing">Pricing</span> <span class="tag-ml">Machine Learning</span> <span class="tag-optimization">Optimization</span><br>
+Adam N. Elmachtoub, **Hyemi Kim**, and Jonathan Y. Tan (α-β)<br>
+The 9th ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2026<br>
 
-<div class="paper-item">
-  4. [**Counterfactual Fairness with Disentangled Causal Effect Variational Autoencoder**](https://cdn.aaai.org/ojs/16990/16990-13-20484-1-2-20210518.pdf) [[code]](https://github.com/HyemiK1m/DCEVAE)<br>
-  <span class="tag">Fairness</span> <span class="tag">ML</span><br>
-  Hyemi Kim et al.<br>
-  AAAI, 2021
-</div>
+1. [**Fair Fares for Vehicle Sharing Systems**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4699813) [[code]](https://github.com/HyemiK1m/Fair_Fares)<br>
+<span class="tag-fairness">Fairness</span> <span class="tag-transportation">Transportation</span> <span class="tag-pricing">Pricing</span> <span class="tag-optimization">Optimization</span><br>
+Adam N. Elmachtoub and **Hyemi Kim** (α-β)<br>
+Operations Research, 2026<br>
+The 8th ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2025<br>
+🏆 <span style="color:#1565C0; font-weight: 500;">Finalist, INFORMS DEI Best Student Paper Award, 2024</span><br>
+🏆 <span style="color:#1565C0; font-weight: 500;">Finalist, INFORMS Transportation Science and Logistics Society Best Student Paper Award, 2024</span><br>
 
-<h2>Teaching</h2>
+1. [**Counterfactual Fairness with Disentangled Causal Effect Variational Autoencoder**](https://cdn.aaai.org/ojs/16990/16990-13-20484-1-2-20210518.pdf) [[code]](https://github.com/HyemiK1m/DCEVAE)<br>
+<span class="tag-fairness">Fairness</span> <span class="tag-ml">Machine Learning</span><br>
+**Hyemi Kim**, Seungjae Shin, JoonHo Jang, Kyungwoo Song, Weonyoung Joo, Wanmo Kang, Il-Chul Moon<br>
+Association for the Advancement of Artificial Intelligence 2021<br>
 
-* Introduction to Probability and Statistics, Columbia IEOR (Fall 2024)
-* Stochastic Models, Columbia IEOR (Spring 2024)
-* Analytics in Action, Columbia Business School (Fall 2023)
-* Transportation Analytics & Logistics, Columbia IEOR (Spring 2023)
-* Data Structure, KAIST ISysE (Fall 2018, 2019)
+1. [**Black-Box EM Algorithm for Estimating Latent States of High-Speed Vehicles**](https://arc.aiaa.org/doi/10.2514/1.I010831)<br>
+<span class="tag-ml">Machine Learning</span><br>
+Yoon-Yeong Kim, **Hyemi Kim**, WonSung Lee, Han-Lim Choi, Il-Chul Moon<br>
+American Institute of Aeronautics and Astronautics<br>
+ 
+1. [**Neutralizing Gender Bias in Word Embedding with Latent Disentanglement and Counterfactual Generation**](https://aclanthology.org/2020.findings-emnlp.280.pdf)<br>
+<span class="tag-fairness">Fairness</span> <span class="tag-ml">Machine Learning</span><br>
+Seungjae Shin, Kyungwoo Song, Joonho Jang, **Hyemi Kim**, Weonyoung Joo, Il-Chul Moon<br>
+Findings of Empirical Methods in Natural Language Processing (Findings of EMNLP) 2020<br>
+ 
+1. [**Deep Generative Positive-Unlabeled Learning under Selection Bias**](https://dl.acm.org/doi/10.1145/3340531.3411971)<br>
+<span class="tag-ml">Machine Learning</span><br>
+ByeongHu Na, **Hyemi Kim**, Kyungwoo Song, Weonyoung Joo, Yoonyeong Kim, Il-Chul Moon<br>
+Conference on Information and Knowledge Management (CIKM) 2020<br>
 
-<h2>Fellowships & Awards</h2>
+<h3 style="color:#0C0C0C; font-size:1.1em; font-weight:700; margin-bottom:1em;">Workshop Paper</h3>
 
-* Columbia-Dream Sports AI Innovation Fellowship (2025)
-* Finalist, INFORMS DEI Best Student Paper Award (2024)
-* Finalist, INFORMS TSL Best Student Paper Award (2024)
-* Finalist, INFORMS BSS Data Challenge (2023)
-* Deming Doctoral Fellowship, Columbia Business School (2023)
-* Songhyun Award, KAIST (2019)
-* Presidential Science Scholarship, KFAS (2012)
+1. [**Improving Group-based Robustness and Calibration via Ordered Risk and Confidence Regularization**](https://openreview.net/pdf?id=okCTFCRavwh)<br>
+<span class="tag-ml">Machine Learning</span><br>
+Seungjae Shin, Byeonghu Na, HeeSun Bae, JoonHo Jang, **Hyemi Kim**, Kyungwoo Song, Youngjae Cho, Il-chul Moon<br>
+ICML 2022: Workshop on Spurious Correlations, Invariance and Stability<br>
+
+<h2 style="color:#0C0C0C; border-bottom: 2px solid #0C0C0C; padding-bottom: 5px; font-size:1.7em; font-weight:800; margin-top:1.5em; margin-bottom:0.3em;">Teaching</h2>
+
+* **Introduction to Probability and Statistics**, Columbia IEOR (Fall 2024)
+* **Stochastic Models**, Columbia IEOR (Spring 2024)
+* **Analytics in Action**, Columbia Business School (Fall 2023)
+* **<span class="text-transportation">Transportation</span> Analytics & Logistics**, Columbia IEOR (Spring 2023)
+* **Data Structure**, KAIST ISysE (Fall 2018, Fall 2019)
+
+<h2 style="color:#0C0C0C; border-bottom: 2px solid #0C0C0C; padding-bottom: 5px; font-size:1.7em; font-weight:800; margin-top:1.5em; margin-bottom:0.3em;">Fellowships & Awards</h2>
+
+<p style="font-size: 0.9em; color: #555; font-style: italic; margin-bottom: 1em;">
+  I am incredibly grateful for the generous support of the following fellowships and the recognition of these awards.
+</p>
+
+* **Columbia-Dream Sports <span class="text-ml">AI</span> Innovation Fellowship**, Columbia University (2025)
+* **Finalist, INFORMS <span class="text-fairness">DEI</span> Best Student Paper Award** (2024)
+* **Finalist, INFORMS <span class="text-transportation">Transportation</span> Science and Logistics Best Student Paper Award** (2024)
+* **Finalist, INFORMS 2023 BSS Data Challenge Competition** (2023) -- Decoupling <span class="text-pricing">Price</span> and Demand Estimation for Profit Optimization
+* **Deming Doctoral Fellowship**, Columbia Business School (2023)
+* **Songhyun Award**, KAIST (2019)
+* **Presidential Science Scholarship**, KFAS (2012)
