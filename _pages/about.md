@@ -15,16 +15,16 @@ redirect_from:
   .tag-optimization { background-color: #FFF3E0; color: #EF6C00; padding: 1px 4px; border-radius: 3px; font-size: 0.7em; font-weight: 600; margin-right: 3px; display: inline-block; margin-bottom: 2px; line-height: 1.2;}
   .tag-ml { background-color: #FFEBEE; color: #C62828; padding: 1px 4px; border-radius: 3px; font-size: 0.7em; font-weight: 600; margin-right: 3px; display: inline-block; margin-bottom: 2px; line-height: 1.2;}
 
-  /* Text Colors for Bio */
-  .text-fairness { color: #00695C; font-weight: 600; }
-  .text-transportation { color: #1565C0; font-weight: 600; }
-  .text-energy { color: #2E7D32; font-weight: 600; }
-  .text-pricing { color: #6A1B9A; font-weight: 600; }
-  .text-optimization { color: #EF6C00; font-weight: 600; }
-  .text-ml { color: #C62828; font-weight: 600; }
+  /* Text Colors for Bio - Changed to 500 for a subtle boldness */
+  .text-fairness { color: #00695C; font-weight: 500; }
+  .text-transportation { color: #1565C0; font-weight: 500; }
+  .text-energy { color: #2E7D32; font-weight: 500; }
+  .text-pricing { color: #6A1B9A; font-weight: 500; }
+  .text-optimization { color: #EF6C00; font-weight: 500; }
+  .text-ml { color: #C62828; font-weight: 500; }
 </style>
 
-Hi! I am a final year Ph.D. student in the Department of [Industrial Engineering and Operations Research](https://ieor.columbia.edu/) at Columbia University, and I am fortunate to be advised by Prof. [Adam Elmachtoub](https://www.columbia.edu/~ae2516/). My broad research interest lies in **fairness-aware systems**. More specifically, my work focuses on designing such systems via <span class="text-pricing">pricing</span>, with applications in <span class="text-transportation">transportation</span> and <span class="text-energy">energy</span>, using <span class="text-optimization">optimization</span> and <span class="text-ml">machine learning</span>.
+Hi! I am a final year Ph.D. student in the Department of [Industrial Engineering and Operations Research](https://ieor.columbia.edu/) at Columbia University, and I am fortunate to be advised by Prof. [Adam Elmachtoub](https://www.columbia.edu/~ae2516/). My research focuses on **fairness-aware systems**. More specifically, my work focuses on designing such systems via <span class="text-pricing">pricing</span>, with applications in <span class="text-transportation">transportation</span> and <span class="text-energy">energy</span>, using <span class="text-optimization">optimization</span> and <span class="text-ml">machine learning</span>.
  
 I received my MS degree in Industrial and Systems Engineering from Korea Advanced Institute of Science and Technology (KAIST) where I was advised by Prof. [Il-Chul Moon](https://aai.kaist.ac.kr/bbs/board.php?bo_table=sub2_1&wr_id=3). Prior to that, I received my BS degree in Industrial and Systems Engineering and Electrical Engineering from KAIST.
 
