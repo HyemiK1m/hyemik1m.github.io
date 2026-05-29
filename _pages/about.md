@@ -103,6 +103,7 @@ ICML 2022: Workshop on Spurious Correlations, Invariance and Stability<br>
 * **Columbia-Dream Sports <span class="text-ml">AI</span> Innovation Fellowship**, Columbia University (2025)
 * **Finalist, INFORMS <span class="text-fairness">DEI</span> Best Student Paper Award** (2024)
 * **Finalist, INFORMS <span class="text-transportation">Transportation</span> Science and Logistics Best Student Paper Award** (2024)
+* **Finalist, INFORMS 2023 BSS Data Challenge Competition** (2023) -- Decoupling <span class="text-pricing">Price</span> and Demand Estimation for Profit Optimization
 * **Deming Doctoral Fellowship**, Columbia Business School (2023)
 * **Songhyun Award**, KAIST (2019)
 * **Presidential Science Scholarship**, KFAS (2012)
