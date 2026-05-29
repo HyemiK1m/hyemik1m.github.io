@@ -7,13 +7,13 @@ redirect_from:
 ---
 
 <style>
-  /* Badge Styles for Papers - Reduced Size */
-  .tag-fairness { background-color: #E0F2F1; color: #00695C; padding: 1px 4px; border-radius: 3px; font-size: 0.7em; font-weight: 600; margin-right: 3px; display: inline-block; margin-bottom: 2px; line-height: 1.2;}
-  .tag-transportation { background-color: #E3F2FD; color: #1565C0; padding: 1px 4px; border-radius: 3px; font-size: 0.7em; font-weight: 600; margin-right: 3px; display: inline-block; margin-bottom: 2px; line-height: 1.2;}
-  .tag-energy { background-color: #E8F5E9; color: #2E7D32; padding: 1px 4px; border-radius: 3px; font-size: 0.7em; font-weight: 600; margin-right: 3px; display: inline-block; margin-bottom: 2px; line-height: 1.2;}
-  .tag-pricing { background-color: #F3E5F5; color: #6A1B9A; padding: 1px 4px; border-radius: 3px; font-size: 0.7em; font-weight: 600; margin-right: 3px; display: inline-block; margin-bottom: 2px; line-height: 1.2;}
-  .tag-optimization { background-color: #FFF3E0; color: #EF6C00; padding: 1px 4px; border-radius: 3px; font-size: 0.7em; font-weight: 600; margin-right: 3px; display: inline-block; margin-bottom: 2px; line-height: 1.2;}
-  .tag-ml { background-color: #FFEBEE; color: #C62828; padding: 1px 4px; border-radius: 3px; font-size: 0.7em; font-weight: 600; margin-right: 3px; display: inline-block; margin-bottom: 2px; line-height: 1.2;}
+  /* Badge Styles for Papers - Reduced Size & Slightly increased bottom margin for breathing room */
+  .tag-fairness { background-color: #E0F2F1; color: #00695C; padding: 1px 4px; border-radius: 3px; font-size: 0.7em; font-weight: 600; margin-right: 3px; display: inline-block; margin-bottom: 4px; line-height: 1.2;}
+  .tag-transportation { background-color: #E3F2FD; color: #1565C0; padding: 1px 4px; border-radius: 3px; font-size: 0.7em; font-weight: 600; margin-right: 3px; display: inline-block; margin-bottom: 4px; line-height: 1.2;}
+  .tag-energy { background-color: #E8F5E9; color: #2E7D32; padding: 1px 4px; border-radius: 3px; font-size: 0.7em; font-weight: 600; margin-right: 3px; display: inline-block; margin-bottom: 4px; line-height: 1.2;}
+  .tag-pricing { background-color: #F3E5F5; color: #6A1B9A; padding: 1px 4px; border-radius: 3px; font-size: 0.7em; font-weight: 600; margin-right: 3px; display: inline-block; margin-bottom: 4px; line-height: 1.2;}
+  .tag-optimization { background-color: #FFF3E0; color: #EF6C00; padding: 1px 4px; border-radius: 3px; font-size: 0.7em; font-weight: 600; margin-right: 3px; display: inline-block; margin-bottom: 4px; line-height: 1.2;}
+  .tag-ml { background-color: #FFEBEE; color: #C62828; padding: 1px 4px; border-radius: 3px; font-size: 0.7em; font-weight: 600; margin-right: 3px; display: inline-block; margin-bottom: 4px; line-height: 1.2;}
 
   /* Text Colors for Bio - Changed to 500 for a subtle boldness */
   .text-fairness { color: #00695C; font-weight: 600; }
@@ -24,7 +24,7 @@ redirect_from:
   .text-ml { color: #C62828; font-weight: 500; }
 </style>
 
-Hi! I am a final year Ph.D. student in the Department of [Industrial Engineering and Operations Research](https://ieor.columbia.edu/) at Columbia University, and I am fortunate to be advised by Prof. [Adam Elmachtoub](https://www.columbia.edu/~ae2516/). My research centers around <span class="text-fairness">fairness</span>**-aware systems**. More specifically, my work focuses on designing such systems via <span class="text-pricing">pricing</span>, with applications in <span class="text-transportation">transportation</span> and <span class="text-energy">energy</span>, using <span class="text-optimization">optimization</span> and <span class="text-ml">machine learning</span>.
+Hi! I am a final year Ph.D. student in the Department of [Industrial Engineering and Operations Research](https://ieor.columbia.edu/) at Columbia University, and I am fortunate to be advised by Prof. [Adam Elmachtoub](https://www.columbia.edu/~ae2516/). My research centers around **<span class="text-fairness">fairness-aware</span> systems**. More specifically, my work focuses on designing such systems via <span class="text-pricing">pricing</span>, with applications in <span class="text-transportation">transportation</span> and <span class="text-energy">energy</span>, using <span class="text-optimization">optimization</span> and <span class="text-ml">machine learning</span>.
  
 I received my MS degree in Industrial and Systems Engineering from Korea Advanced Institute of Science and Technology (KAIST) where I was advised by Prof. [Il-Chul Moon](https://aai.kaist.ac.kr/bbs/board.php?bo_table=sub2_1&wr_id=3). Prior to that, I received my BS degree in Industrial and Systems Engineering and Electrical Engineering from KAIST.
 
@@ -51,8 +51,8 @@ The 9th ACM Conference on Fairness, Accountability, and Transparency (FAccT), 20
 Adam N. Elmachtoub and **Hyemi Kim** (α-β)<br>
 Operations Research, 2026<br>
 The 8th ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2025<br>
-<span style="color:#1565C0;">Finalist, INFORMS DEI Best Student Paper Award, 2024</span><br>
-<span style="color:#1565C0;">Finalist, INFORMS Transportation Science and Logistics Society Best Student Paper Award, 2024</span><br>
+🏆 <span style="color:#1565C0; font-weight: 500;">Finalist, INFORMS DEI Best Student Paper Award, 2024</span><br>
+🏆 <span style="color:#1565C0; font-weight: 500;">Finalist, INFORMS Transportation Science and Logistics Society Best Student Paper Award, 2024</span><br>
 
 1. [**Counterfactual Fairness with Disentangled Causal Effect Variational Autoencoder**](https://cdn.aaai.org/ojs/16990/16990-13-20484-1-2-20210518.pdf) [[code]](https://github.com/HyemiK1m/DCEVAE)<br>
 <span class="tag-fairness">Fairness</span> <span class="tag-ml">Machine Learning</span><br>
