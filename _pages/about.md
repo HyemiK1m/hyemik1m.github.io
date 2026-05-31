@@ -17,11 +17,11 @@ redirect_from:
 
   /* Text Colors for Bio - Changed to 500 for a subtle boldness */
   .text-fairness { color: #00695C; font-weight: 600; }
-  .text-transportation { color: #1565C0; font-weight: 500; }
-  .text-energy { color: #2E7D32; font-weight: 500; }
-  .text-pricing { color: #6A1B9A; font-weight: 500; }
-  .text-optimization { color: #EF6C00; font-weight: 500; }
-  .text-ml { color: #C62828; font-weight: 500; }
+  .text-transportation { color: #1565C0; font-weight: 600; }
+  .text-energy { color: #2E7D32; font-weight: 600; }
+  .text-pricing { color: #6A1B9A; font-weight: 600; }
+  .text-optimization { color: #EF6C00; font-weight: 600; }
+  .text-ml { color: #C62828; font-weight: 600; }
 </style>
 
 Hi! I am a final year Ph.D. student in the Department of [Industrial Engineering and Operations Research](https://ieor.columbia.edu/) at Columbia University, and I am fortunate to be advised by Prof. [Adam Elmachtoub](https://www.columbia.edu/~ae2516/). 
