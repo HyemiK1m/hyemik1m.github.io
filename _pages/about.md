@@ -27,8 +27,8 @@ redirect_from:
 Hi! I am a final year Ph.D. student in the Department of [Industrial Engineering and Operations Research](https://ieor.columbia.edu/) at Columbia University, and I am fortunate to be advised by Prof. [Adam Elmachtoub](https://www.columbia.edu/~ae2516/). 
 
 <div style="margin: 1.5em 0;">
-  <span style="font-size: 1.15em; font-weight: bold; display: block; margin-bottom: 5px; color: #111;">My research centers around <span class="text-fairness">fairness-aware systems</span>.</span>
-  <span style="font-size: 1em; line-height: 1.6; color: #333;">More specifically, my work focuses on designing such systems via <span class="text-pricing">pricing</span>, with applications in <span class="text-transportation">transportation</span> and <span class="text-energy">energy</span>, using <span class="text-optimization">optimization</span> and <span class="text-ml">machine learning</span>.</span>
+  <span style="font-size: 1.15em; font-weight: bold; display: block; margin-bottom: 5px; color: #111;">My research centers around <span class="text-fairness">socially responsible operations</span>.</span>
+  <span style="font-size: 1em; line-height: 1.6; color: #333;">More specifically, my work focuses on designing <span class="text-fairness">fairness-aware</span> systems via <span class="text-pricing">pricing</span>, with applications in <span class="text-transportation">transportation</span> and <span class="text-energy">energy</span>, using <span class="text-optimization">optimization</span> and <span class="text-ml">machine learning</span>.</span>
 </div>
  
 I received my MS degree in Industrial and Systems Engineering from Korea Advanced Institute of Science and Technology (KAIST) where I was advised by Prof. [Il-Chul Moon](https://aai.kaist.ac.kr/bbs/board.php?bo_table=sub2_1&wr_id=3). Prior to that, I received my BS degree in Industrial and Systems Engineering and Electrical Engineering from KAIST.
