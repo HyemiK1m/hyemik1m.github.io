@@ -27,7 +27,7 @@ redirect_from:
 Hi! I am a final-year Ph.D. student in the Department of [Industrial Engineering and Operations Research](https://ieor.columbia.edu/) at Columbia University, and I am fortunate to be advised by Prof. [Adam Elmachtoub](https://www.columbia.edu/~ae2516/). 
 
 <div style="margin: 1.5em 0;">
-  <span style="font-size: 1.15em; font-weight: bold; display: block; margin-bottom: 5px; color: #111;">My research centers around <span class="text-fairness">socially responsible operations</span>.</span>
+  <span style="font-size: 1.15em; font-weight: bold; display: block; margin-bottom: 5px; color: #111;">My research centers around <span class="text-fairness">socially responsible</span> operations.</span>
   <span style="font-size: 1em; line-height: 1.6; color: #333;">More specifically, my work focuses on designing <span class="text-fairness">fairness-aware</span> systems via <span class="text-pricing">pricing</span>, with applications in <span class="text-transportation">transportation</span> and <span class="text-energy">energy</span>, using <span class="text-optimization">optimization</span> and <span class="text-ml">machine learning</span>.</span>
 </div>
  
