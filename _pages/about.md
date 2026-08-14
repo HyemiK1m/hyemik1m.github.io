@@ -62,17 +62,17 @@ The 8th ACM Conference on Fairness, Accountability, and Transparency (FAccT), 20
 1. [**Counterfactual Fairness with Disentangled Causal Effect Variational Autoencoder**](https://cdn.aaai.org/ojs/16990/16990-13-20484-1-2-20210518.pdf) [[code]](https://github.com/HyemiK1m/DCEVAE)<br>
 <span class="tag-fairness">Fairness</span> <span class="tag-ml">Machine Learning</span><br>
 **Hyemi Kim**, Seungjae Shin, JoonHo Jang, Kyungwoo Song, Weonyoung Joo, Wanmo Kang, Il-Chul Moon<br>
-Association for the Advancement of Artificial Intelligence 2021<br>
+Association for the Advancement of Artificial Intelligence (AAAI) 2021<br>
 
 1. [**Black-Box EM Algorithm for Estimating Latent States of High-Speed Vehicles**](https://arc.aiaa.org/doi/10.2514/1.I010831)<br>
 <span class="tag-ml">Machine Learning</span><br>
 Yoon-Yeong Kim, **Hyemi Kim**, WonSung Lee, Han-Lim Choi, Il-Chul Moon<br>
-American Institute of Aeronautics and Astronautics<br>
+American Institute of Aeronautics and Astronautics, 2021<br>
  
 1. [**Neutralizing Gender Bias in Word Embedding with Latent Disentanglement and Counterfactual Generation**](https://aclanthology.org/2020.findings-emnlp.280.pdf)<br>
 <span class="tag-fairness">Fairness</span> <span class="tag-ml">Machine Learning</span><br>
 Seungjae Shin, Kyungwoo Song, Joonho Jang, **Hyemi Kim**, Weonyoung Joo, Il-Chul Moon<br>
-Findings of Empirical Methods in Natural Language Processing (Findings of EMNLP) 2020<br>
+Findings of Empirical Methods in Natural Language Processing (EMNLP) 2020<br>
  
 1. [**Deep Generative Positive-Unlabeled Learning under Selection Bias**](https://dl.acm.org/doi/10.1145/3340531.3411971)<br>
 <span class="tag-ml">Machine Learning</span><br>
