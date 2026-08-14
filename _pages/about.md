@@ -45,11 +45,13 @@ I received my MS degree in Industrial and Systems Engineering from Korea Advance
 <span class="tag-fairness">Fairness</span> <span class="tag-energy">Energy</span> <span class="tag-pricing">Pricing</span> <span class="tag-optimization">Optimization</span><br>
 Liudong Chen\*, **Hyemi Kim**\*, Adam N. Elmachtoub, and Bolun Xu <br>
 The 9th ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2026<br>
+Submitted to Management Science<br>
 
 1. [**Learning Fair Demand Models**](https://arxiv.org/abs/2606.06830) [[code]](https://github.com/HyemiK1m/Learning_Fair_Demand_Models)<br>
 <span class="tag-fairness">Fairness</span> <span class="tag-pricing">Pricing</span> <span class="tag-ml">Machine Learning</span> <span class="tag-optimization">Optimization</span><br>
 Adam N. Elmachtoub, **Hyemi Kim**, and Jonathan Y. Tan (α-β)<br>
 The 9th ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2026<br>
+Submitted to Operations Research<br>
 
 1. [**Fair Fares for Vehicle Sharing Systems**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4699813) [[code]](https://github.com/HyemiK1m/Fair_Fares)<br>
 <span class="tag-fairness">Fairness</span> <span class="tag-transportation">Transportation</span> <span class="tag-pricing">Pricing</span> <span class="tag-optimization">Optimization</span><br>
