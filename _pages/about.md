@@ -47,7 +47,6 @@ _I am excited to be on the 2026–2027 academic job market!_
 <span class="tag-fairness">Fairness</span> <span class="tag-energy">Energy</span> <span class="tag-pricing">Pricing</span> <span class="tag-optimization">Optimization</span><br>
 Liudong Chen\*, **Hyemi Kim**\*, Adam N. Elmachtoub, and Bolun Xu <br>
 The 9th ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2026<br>
-Submitted to Management Science<br>
 
 1. [**Learning Fair Demand Models**](https://arxiv.org/abs/2606.06830) [[code]](https://github.com/HyemiK1m/Learning_Fair_Demand_Models)<br>
 <span class="tag-fairness">Fairness</span> <span class="tag-pricing">Pricing</span> <span class="tag-ml">Machine Learning</span> <span class="tag-optimization">Optimization</span><br>
