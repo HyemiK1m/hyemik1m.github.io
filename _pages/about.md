@@ -52,7 +52,7 @@ The 9th ACM Conference on Fairness, Accountability, and Transparency (FAccT), 20
 <span class="tag-fairness">Fairness</span> <span class="tag-pricing">Pricing</span> <span class="tag-ml">Machine Learning</span> <span class="tag-optimization">Optimization</span><br>
 Adam N. Elmachtoub, **Hyemi Kim**, and Jonathan Y. Tan (α-β)<br>
 The 9th ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2026<br>
-Submitted to Operations Research<br>
+Major Revision at Operations Research<br>
 
 1. [**Fair Fares for Vehicle Sharing Systems**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4699813) [[code]](https://github.com/HyemiK1m/Fair_Fares)<br>
 <span class="tag-fairness">Fairness</span> <span class="tag-transportation">Transportation</span> <span class="tag-pricing">Pricing</span> <span class="tag-optimization">Optimization</span><br>
