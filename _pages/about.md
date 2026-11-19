@@ -136,7 +136,7 @@ _I am excited to be on the 2026–2027 academic job market._
 <p class="venue"><em>The 9th ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2026</em><br><em>Major revision at Operations Research</em></p>
 </li>
 <li>
-<strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4699813">Fair Fares for Vehicle Sharing Systems</a></strong> · <a href="https://github.com/HyemiK1m/Fair_Fares">code</a>
+<strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4699813">Fair Fares for Vehicle Sharing Systems</a></strong> · <a href="https://github.com/HyemiK1m/Fair_Fares">code</a> · <a href="/files/Fair_Fares_Additional.pdf">additional notes</a>
 <p class="tags"><span class="tag">Fairness</span><span class="tag">Transportation</span><span class="tag">Pricing</span><span class="tag">Optimization</span></p>
 <p class="authors">Adam N. Elmachtoub and <strong>Hyemi Kim</strong> (α–β)</p>
 <p class="venue"><em>Operations Research, 2026</em><br>The 8th ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2025</p>
